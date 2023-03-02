@@ -20,7 +20,7 @@ fun DisplayScreen(text: String) {
     Box(
         modifier = Modifier
             .fillMaxSize()
-            .background(Color.Gray)
+            .background(Color.White)
     ) {
         Text(
             modifier = Modifier.align(Alignment.Center),
