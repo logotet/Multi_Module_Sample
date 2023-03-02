@@ -13,13 +13,13 @@ fun SendScreen() {
 
 @Composable
 fun SendScreenContent() {
-//    var text by remember { mutableStateOf("") }
-//
-//    Column(modifier = Modifier.fillMaxSize()) {
-//        OutlinedTextField(
-//            value = text,
-//            onValueChange = { newValue -> text = newValue }
-//
-//        )
-//    }
+    var text by remember { mutableStateOf("") }
+
+    Column(modifier = Modifier.fillMaxSize()) {
+        OutlinedTextField(
+            value = text,
+            onValueChange = { newValue -> text = newValue }
+
+        )
+    }
 }
