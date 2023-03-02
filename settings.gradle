@@ -14,3 +14,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Multi Module Sample"
 include ':app'
+include ':modulevladi'
