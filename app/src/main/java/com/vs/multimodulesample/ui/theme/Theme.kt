@@ -1,4 +1,4 @@
-package com.example.multimodulesample.ui.theme
+package com.vs.multimodulesample.ui.theme
 
 import android.app.Activity
 import android.os.Build

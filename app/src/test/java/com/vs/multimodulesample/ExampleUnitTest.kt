@@ -1,4 +1,4 @@
-package com.example.multimodulesample
+package com.vs.multimodulesample
 
 import org.junit.Test
 
